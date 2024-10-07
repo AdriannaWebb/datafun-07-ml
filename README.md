@@ -12,4 +12,7 @@
 
 # Ignore macOS specific files
 .DS_Store
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
 ```
