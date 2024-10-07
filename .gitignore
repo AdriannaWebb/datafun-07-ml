@@ -1,9 +1,3 @@
-# datafun-07-ml
-
-## Create Repo and Clone Down From Github
-
-## Add .gitignore File
-```
 # Ignore project virtual environment in the .venv folder
 .venv/
 
@@ -12,4 +6,3 @@
 
 # Ignore macOS specific files
 .DS_Store
-```
